@@ -1,0 +1,16 @@
+'The Architecture major occupies the office with the Ctrl_Alt_Del comic poster'.
+'The CSE major belongs to the RPI_Flying Club'.
+'The GS major reads Sci_Fi'.
+'The office with the Dilbert comic poster is on the left of the office with the Calvin_and_Hobbes comic poster'.
+'The office with the Dilbert comic poster occupant reads Fantasy'.
+'The student who eats Pepperoni pizza belongs to the RCOS club'.
+'The occupant of the office with the xkcd comic poster eats Cheese pizza'.
+'The student occupying the office in the middle reads Fiction'.
+'The CS major occupies the first office'.
+'The student who eats Buffalo_Chicken pizza occupies the office next to the one who belongs to the R_Gaming_Alliance club'.
+'The student who belongs to the CompSci club occupies the office next to the student who eats Cheese pizza'.
+'The student who eats Hawaiian pizza reads Poetry'.
+'The ITWS major eats Broccoli pizza'.
+'The CS major occupies the office next to the one with the PHD_Comics comic poster'.
+'The student who eats Buffalo_Chicken pizza has an office neighbor who reads History'.
+'derp'.
